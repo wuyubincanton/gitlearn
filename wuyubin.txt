@@ -3,3 +3,5 @@ Git is free software distributed under the GPL
 git is shit
 change of plan
 john wick
+jardani
+施华
